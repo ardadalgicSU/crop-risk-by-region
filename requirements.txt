@@ -1,0 +1,15 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+xarray
+netCDF4
+cdsapi
+jupyter
+ipykernel
+pyyaml
+requests
+tqdm
