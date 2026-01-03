@@ -1,0 +1,3 @@
+year,y_true,y_pred,model,variant
+2023,2361378.162908265,2439173.503862942,bayesian_ridge_minimal,minimal
+2024,2130712.2422437654,2194394.969261732,bayesian_ridge_minimal,minimal

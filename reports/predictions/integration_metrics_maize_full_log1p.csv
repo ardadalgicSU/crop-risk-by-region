@@ -1,0 +1,2 @@
+crop,variant,model,mae,rmse,smape,r2
+maize,full_log1p,bayesian_ridge_log1p,390532.60189250554,401107.73521866807,15.62925775837023,-303.3777367273553

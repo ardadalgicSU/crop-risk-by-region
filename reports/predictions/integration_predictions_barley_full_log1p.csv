@@ -1,0 +1,3 @@
+year,y_true,y_pred,model,variant
+2023,1387645.9122313212,1803606.0955996115,bayesian_ridge_log1p,full_log1p
+2024,1115253.57134845,1062158.4176957957,bayesian_ridge_log1p,full_log1p

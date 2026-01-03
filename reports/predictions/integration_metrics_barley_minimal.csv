@@ -1,0 +1,2 @@
+crop,variant,model,mae,rmse,smape,r2
+barley,minimal,bayesian_ridge_minimal,94288.6734016178,103577.44956689372,6.962680954055958,0.42163682465602603

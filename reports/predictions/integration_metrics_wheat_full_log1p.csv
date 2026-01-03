@@ -1,0 +1,2 @@
+crop,variant,model,mae,rmse,smape,r2
+wheat,full_log1p,bayesian_ridge_log1p,248061.48292355728,304832.43683649815,10.552104584266308,-5.985789204182939

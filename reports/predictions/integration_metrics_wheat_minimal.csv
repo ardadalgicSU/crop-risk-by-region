@@ -1,0 +1,2 @@
+crop,variant,model,mae,rmse,smape,r2
+wheat,minimal,bayesian_ridge_minimal,70739.03398632188,71090.10055802188,3.092946514851176,0.6200631847051444

@@ -1,0 +1,2 @@
+crop,variant,model,mae,rmse,smape,r2
+maize,minimal,bayesian_ridge_minimal,195943.62473925622,200995.94623322377,7.274679596033491,-75.43027211885352
